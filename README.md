@@ -15,7 +15,6 @@ II.  Unsupervised Learning
   2.  Gaussian Mixture Modeling 
   3.  Novelty & Outlier Detection
   4.  Fuzzy C-Means Clustering 
-  5.  Manifold Learnign (MDS) [yet to be implemented]
   
 The application depends on following packages:
 
