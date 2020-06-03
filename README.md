@@ -3,7 +3,7 @@
 
 Machine Learning through R Shiny is open source server level web application developed by using RShiny. The application right now supports the following algorithms. 
 
-I.  Supervised Learning 📝
+⚡️**Supervsed Learning:**
   1.  Logistic regression
   2.  kNN
   3.  SVM
@@ -12,13 +12,13 @@ I.  Supervised Learning 📝
   6.  Naive Bayes Classifier
   7.  Neural Networks
   
-II.  Unsupervised Learning 📝
+🌈**Unsupervised Learning:**
   1.  PCA
   2.  Gaussian Mixture Modeling 
   3.  Novelty & Outlier Detection
   4.  Fuzzy C-Means Clustering 
   
-The application depends on following packages:
+📦 **Used Packages**
 
 1.  shiny
 2.  shinydashboard
